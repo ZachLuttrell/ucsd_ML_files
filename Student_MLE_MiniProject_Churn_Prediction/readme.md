@@ -1,1 +1,1 @@
-Contains the project files and notebooks to be ran for the Churn Prediction Mini Project.
+Contains the resulting versions of each notebook's execution from the project instructions.
